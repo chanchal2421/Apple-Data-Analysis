@@ -402,15 +402,3 @@ JOIN products as p
 ON s.product_id = p.product_id
 GROUP BY 1, 2
 ORDER BY 1, 3 DESC 
-
-
-
-
-
-
-
-
-
-
-
-
